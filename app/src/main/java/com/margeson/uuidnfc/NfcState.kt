@@ -1,4 +1,4 @@
-package com.example.uuidnfc
+package com.margeson.uuidnfc
 
 sealed class NfcState {
 

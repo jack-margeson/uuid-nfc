@@ -1,4 +1,4 @@
-package com.example.uuidnfc
+package com.margeson.uuidnfc
 
 import android.app.Activity
 import android.app.PendingIntent

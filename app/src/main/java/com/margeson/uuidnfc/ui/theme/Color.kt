@@ -1,4 +1,4 @@
-package com.example.uuidnfc.ui.theme
+package com.margeson.uuidnfc.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

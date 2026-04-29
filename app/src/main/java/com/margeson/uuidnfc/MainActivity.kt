@@ -1,4 +1,4 @@
-package com.example.uuidnfc
+package com.margeson.uuidnfc
 
 import android.content.Intent
 import android.content.res.Configuration
@@ -63,7 +63,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.withLink
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.uuidnfc.ui.theme.UUIDNFCTheme
+import com.margeson.uuidnfc.ui.theme.UUIDNFCTheme
 import kotlinx.coroutines.flow.collectLatest
 import java.util.UUID
 
